@@ -1,0 +1,13 @@
+Package: mpd-dbgsym
+Source: mpd
+Version: 0.20.20-1-volumio
+Auto-Built-Package: debug-symbols
+Architecture: armhf
+Maintainer: mpd maintainers <pkg-mpd-maintainers@lists.alioth.debian.org>
+Installed-Size: 8892
+Depends: mpd (= 0.20.20-1-volumio)
+Section: debug
+Priority: extra
+Homepage: https://www.musicpd.org/
+Description: Debug symbols for mpd
+Build-Ids: 7d537cbb79e4e269294136bc3c8701a368b615c5
